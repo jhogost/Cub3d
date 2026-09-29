@@ -1,0 +1,47 @@
+NO ./bonus/textures/mur_clair.xpm
+SO ./bonus/textures/mur_sombre.xpm
+WE ./bonus/textures/fenetre_claire.xpm
+EA ./bonus/textures/fenetre_sombre.xpm
+LO ./bonus/textures/locker.xpm
+GR ./bonus/textures/green.xpm
+BL ./bonus/textures/blue.xpm
+PU ./bonus/textures/purple.xpm
+RE ./bonus/textures/red.xpm
+OR ./bonus/textures/orange.xpm
+YE ./bonus/textures/yellow.xpm
+AL ./bonus/textures/alcove.xpm
+LI ./bonus/textures/light.xpm
+TI ./bonus/textures/term_on.xpm
+TO ./bonus/textures/term_off.xpm
+TA ./bonus/textures/return0.xpm
+TB ./bonus/textures/return1.xpm
+MA ./bonus/textures/moulinette_A.xpm
+MB ./bonus/textures/moulinette_B.xpm
+DO ./bonus/textures/porte_0.xpm
+DI ./bonus/textures/porte_1.xpm
+ST ./bonus/textures/stair.xpm
+
+C 56,56,56
+F 112,112,112
+
+33333333333
+100l0l0l001
+102hhhhh201
+10W21112m01
+102d1e1f201
+10ttt0ttt01
+10l00l00l01
+10ttt0ttt01
+10l00l00l01
+10ttt0ttt01
+10l00l00l01
+10ttt0ttt01
+10l00l00l01
+10vtt0ttt01
+10l00l00l01
+10ttt0ttt01
+102a1b1c201
+108s111s901
+102g1g1g201
+100l0l0l001
+33333333333
